@@ -1,3 +1,3 @@
 variable "s3_bucket_name" {
-  default = "test-s3-bucket"
+  default = "omegazyadav-2021-06-30"
 }
